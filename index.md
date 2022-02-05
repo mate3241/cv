@@ -1,6 +1,10 @@
 _Software engineer_
 
-[E-mail](mailto:szabomatedenes@gmail.com) / [LinkedIn](https://www.linkedin.com/in/m%C3%A1t%C3%A9-szab%C3%B3-0508291a2/)
+[E-mail](mailto:szabomatedenes@gmail.com) /
+[LinkedIn](https://www.linkedin.com/in/m%C3%A1t%C3%A9-szab%C3%B3-0508291a2/) / 
+[GitHub](https://github.com/mate3241/)
+
+<br>
 
 ## Work Experience
 [Minero IT Hungary Kft.](https://www.minero-it.hu/) (2020-)
@@ -30,5 +34,5 @@ _Software engineer_
 
 ## Education
 [Flow Academy](https://www.flowacademy.hu/) (2020)
-- 5 months intensive coding bootcamp
+- 5-month intensive coding bootcamp
 - 4-week project for [Voodoo Park Ltd.](https://voodoopark.com/)
