@@ -1,4 +1,3 @@
-# Máté Szabó
 _Software engineer_
 
 [E-mail](mailto:szabomatedenes@gmail.com) / [LinkedIn](https://www.linkedin.com/in/m%C3%A1t%C3%A9-szab%C3%B3-0508291a2/)
