@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+_Software engineer_
 
-You can use the [editor on GitHub](https://github.com/mate3241/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[E-mail](mailto:szabomatedenes@gmail.com) / [LinkedIn](https://www.linkedin.com/in/m%C3%A1t%C3%A9-szab%C3%B3-0508291a2/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work Experience
+[Minero IT Hungary Kft.](https://www.minero-it.hu/) (2020-)
 
-### Markdown
+*Junior developer*
+- Design and implement solutions for enterprise-level applications
+- Mostly backend work
+- Collaboration with Hungarian and German developers
+- Close cooperation with German business side
+- Support activities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technical Skills
+- Java 11
+- JEE
+- JPA (EclipseLink)
+- SQL (Postgres, Oracle)
+- Spring Boot (self-taught, WIP)
+- Git (GitHub, BitBucket)
+- Jira
+- Jenkins (familiarity)
+- JavaScript, Ext.js (able to make minor fixes and adjustments on project)
 
-```markdown
-Syntax highlighted code block
+## Languages
+- Hungarian: native
+- English: full professional working proficiency
+- German: memorized proficiency
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mate3241/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Education
+[Flow Academy](https://www.flowacademy.hu/) (2020)
+- 5 months intensive coding bootcamp
+- 4-week project for [Voodoo Park Ltd.](https://voodoopark.com/)
